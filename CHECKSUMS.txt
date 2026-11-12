@@ -1,0 +1,3 @@
+23084536d965e2069bcf7e3d435a8f8ab2b3669c06a4ac31633ab09653d0fcd7  original/models/td-001.glb
+23084536d965e2069bcf7e3d435a8f8ab2b3669c06a4ac31633ab09653d0fcd7  fieldwork/public/models/td-001.glb
+23084536d965e2069bcf7e3d435a8f8ab2b3669c06a4ac31633ab09653d0fcd7  fieldwork/dist/models/td-001.glb
